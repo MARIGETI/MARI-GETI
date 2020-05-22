@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+ <center>  
+    
+<head>
+<title>MARI GETI</title>
+<meta charset="utf-8">
+<link href='https://fonts.googleapis.com/css?family=Avenir:400,700' rel='stylesheet' type='text/css'>
+<style>
+
+.nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+
+div.absolute {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 20px;
+  height: 80px;
+}
+
+div.relative {
+  position: relative;
+  width: 150px;
+  height: 20px;
+} 
+
+  html { 
+  background: url("https://66.media.tumblr.com/718c5e1b5b19a26f8dcaf8048ed3eec5/tumblr_inline_qao2ftUfGp1scd1w1_500.jpg") no-repeat 0 fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+span.a {
+  display: inline; /* the default for span */
+  width: 320px;
+  height: 280px;
+  padding: 0px;
+  border: 0px solid blue;  
+
+}
+
+span.b {
+  display: inline-block;
+  width: 320px;
+  height: 280px;
+  padding: 0px;
+  border: 0px solid blue;    
+
+}
+body {
+    padding: 50px 50px 50px 50px;
+    color:white;
+    font-family:"Noto Serif", sans-serif;
+} 
+
+h1 {
+  font: 700 3rem/1 "Noto Serif";       
+    
+}
+a {
+  color:#fff;  
+  color:rgba(255,255,255,.8);  
+  float:;
+  width:auto;
+ 
+  display:inline-block;
+  font-size:.8rem;
+  text-decoration:none;
+ 
+{
+
+}
+iframe {
+    display:block;
+}
+
+#player {
+    display:block;
+}
+
+.boxed {
+  border: 1px solid green ;
+}
+
+
+
+
+
+div{
+  background-color: #ffg;
+  width: 100px;
+  border: 0px #fff;
+  padding: 50px;
+  margin: 20px;
+}
+
+</style>
+
+</head>
+<body>
+
+
+
+
+
+ 
+    <ul class="nav">
+  <li><div style='float: center;'>
+    <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
+
+<div class="fb-like" data-href="https://facebook.com/MARIGETI" data-width="70" data-layout="button_count" data-action="like" data-size="small" data-share="false"></div> </div> 
+  </div></a></li>
+  <li><div style='float: center;'>
+  <div class="relative">
+    <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:; ; font:14px Helvetica,Arial,sans-serif;  width:10
+    0px;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://COM.us19.list-manage.com/subscribe/post?u=2f672311e4637812d9c454831&amp;id=ea5dec3bb5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="JOIN MARI MAIL" required>
+  </div> </div>
+  <div style='float: ;'>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div class="absolute"> <div style="position: absolute; left: -5000px;" aria-hidden="false"><input type="text" name="b_2f672311e4637812d9c454831_ea5dec3bb5" tabindex="-1" value=""></div
+    <div class="clear"><input type="submit" value="✓" name="subscribe" id="mc-embedded-subscribe" class=""></div>
+    </div>
+    </div> 
+</form>
+</div>
+  </div>
+</div></a></li>
+  <li><iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:3sqSOKQyt1Rrdl05nUmBq0&size=basic&theme=dark&show-count=0" width="100" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="false"></iframe></a> 
+</ul>
+
+
+
+
+<div style="   word-wrap: break-word; width:700px;">
+
+<P ALIGN=CENTER> <b> <font size="5"> <a href="http://MARIGETI.com/" style="color:white">MARI GETI</a> </font>
+    
+</b> <br> <font size="2"> </a>ContactMARIGETI@gmail.com </font> </P>
+
+<center>
+
+<p> 
+<div> <span class="b"> <iframe width="320" height="272" src="https://www.youtube.com/embed/5mIOclmHxFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span> <span class="b">
+<font size="2"> "Rapping since the tender age of 11 and with over 80 live shows under their belt (Miami to Montreal), this physical manifestation of a purple flurp has established a unique audio/video aesthetic for themselves; saturated in thick coats of grape purple and manic beats. With tracks covering such sensitive topics as cycles of abuse, love, and the animal kingdom, MARI GETI doesn't shy away from any subject, employing humorous could-be one liners to paint the world in their own surrealist vision. There’s a persistent sting of humor to their vocal delivery and song arrangement that’s erratic and endearing; it’s as if there’s this infectious smile hiding behind every song, grinning wide beneath a pair of gleeful, almost sarcastic rolling eyes." - Guilty Guide</font> </span> </div>
+</p>
+<!--
+<p>
+<font size="1.5">
+•Self-manged tours, produced/edited music videos- NYC to Chicago
+<br>
+•Scores: “Dark Prism," "Reagitator: Revenge..,” WRBB "Brainwaves" + "NU Politics"
+<br>
+•Press: C-Lab France, Harvard WHRB, NTS, WAYO-LP, Weston Forum, Guilty Guide
+<br>
+•Acting: NBC "New Amsterdam," Danny Brown "3 Tearz," "Dark Prism"
+<br>
+•Audio: Tavern On Green jazz quartets, Oxford Philharmonic, Leslie Uggams, Roger Penrose
+</font>
+</p>
+<p>
+
+<p>
+-->
+
+
+PERFORMANCE/PRODUCTION
+
+<ul class="projects">
+<iframe src="https://open.spotify.com/embed/album/2rgxBFpYrQZQDfiITYYOjZ" width="220" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/2QjK1anVkqlt0qAnTy63HG" width="220" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/6QjEsorMITzoFCAWJHnLkg" width="220" height="220" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</ul>
+<p>
+
+MIXES
+
+<ul class="projects">
+</br>
+<iframe width="33.3%" height="220" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/625324359&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="33.3%" height="220" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/596507259&color=%232d7ab7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="33.3%" height="220" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/372385961&color=%232d7ab7&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</ul>
+<p>
+
+PRE MARI
+
+<p>
+<ul class="projects">
+<iframe style="border: 0; width: 220px; height: 220px;" src="https://bandcamp.com/EmbeddedPlayer/album=539201944/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://marigeti.bandcamp.com/album/galaxy">Galaxy by Cynic</a></iframe>
+<iframe style="border: 0; width: 220px; height: 220px;" src="https://bandcamp.com/EmbeddedPlayer/album=3496905723/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://marigeti.bandcamp.com/album/contrast-ep">Contrast EP by Cynic</a></iframe>
+</ul>
+<p/> 
+
+
+<p>
+<font size="2">
+•Self-manged tours, self-produced/edited music videos- NYC to Chicago
+<br>
+•Scores: “Dark Prism," "Reagitator: Revenge..,” WRBB "Brainwaves" + "NU Politics"
+<br>
+•Press: C-Lab France, Harvard WHRB, NTS, WAYO-LP, Weston Forum, Guilty Guide
+<br>
+•Acting: NBC "New Amsterdam," Danny Brown "3 Tearz," "Dark Prism"
+<br>
+•Audio: Tavern On Green jazz quartets, Oxford Philharmonic, Leslie Uggams, Roger Penrose
+</font>
+</p>
+
+</p>
+</p>
+
+
+
+
+
+
+<center>
+
+<center>
+<div style="width:500px;height:50px;line-height:3em;:scroll;">
+
+<center> PHOTO<br/><a href="https://www.averyjsavage.com/">by Avery J. Savage</a> <center> 
+
+<img src="https://66.media.tumblr.com/30d1751a8579bfcb279e1b3853f60b78/tumblr_inline_plxh5pGs081scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/e34c9791dcc4ea18f08b241bdef91bda/tumblr_inline_plxh1o0YEp1scd1w1_500.jpg"/><img
+
+<br/><a href="https://www.carlisilverman.com/">by Carli Silverman</a>
+
+<img src="https://66.media.tumblr.com/5300cc7273aa854b27231dd173007ea8/tumblr_inline_q0gypc5PtV1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/58f67b167191631d1c731a93fda0f139/tumblr_inline_pk88n9bK6L1scd1w1_500.jpg"/>
+
+<br/><a href="https://vimeo.com/lucysoutter">by Lucy Souter</a>
+
+<img src="https://68.media.tumblr.com/dc157f2ecd30fcc44d3919c73f5e4bb0/tumblr_inline_oi3gsrkXP01scd1w1_500.jpg"/>
+
+<img src="https://78.media.tumblr.com/ce8c1d7f9cb18a6d816985bc3f78de76/tumblr_inline_p69bbl2CZy1scd1w1_500.jpg"/>
+
+
+<center> <br/><a href="https://716-181.com/">by Baron Frankenstein </a> <center/> 
+
+<img src="https://66.media.tumblr.com/a5de186756fc154659bf2ef170ca8140/tumblr_inline_plxhd2mmoE1scd1w1_500.jpg"/>
+<img src="https://66.media.tumblr.com/f117d24d9cad86bcd7d54d030d2e0711/tumblr_inline_plxhdmm0BJ1scd1w1_500.jpg"/>
+
+
+<br/><a href="https://www.instagram.com/uypt/">by Cynthia Villamil </a>
+
+<img src="https://66.media.tumblr.com/8a36bfe5ade36c4f1e4bde49e748d602/tumblr_inline_plxhl5ZYvW1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/1b5893c99ca902e9489bb0a7fc8962f6/tumblr_inline_plxhnccKdk1scd1w1_500.jpg"/>
+
+
+<br/><a href="https://ca.linkedin.com/in/campbell-mcclintock-229a3085">by Campbell McClintock  
+ </a>
+
+<img src="https://66.media.tumblr.com/b4c390cbb2a9c74249c10161b9c94955/tumblr_inline_plxhpof32w1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/57358b1f2be9df9a6ef7821ddfd41589/tumblr_inline_plxhq6QGJP1scd1w1_500.jpg"/>
+
+
+ART
+
+<img src="https://66.media.tumblr.com/3e408b69a9332b469fe266fa7b887d34/tumblr_inline_q0gxuaH6BJ1scd1w1_500.jpg"/>
+
+<img src="https://68.media.tumblr.com/d5f76a4dbc45d190493ea82fee2d7b28/tumblr_inline_og1b2721hA1scd1w1_500.jpg"/>
+
+<img src="https://78.media.tumblr.com/9bd0f26e2cb747743628808a14ff1b85/tumblr_inline_p1efjxOwIk1scd1w1_500.jpg"/>
+
+
+<img src="https://66.media.tumblr.com/f877f965d34fbfc71e85ee2f9ba6c564/tumblr_inline_pquwq1BZbW1scd1w1_500.jpg"/>
+
+<img src="https://78.media.tumblr.com/358631d621419601f97e90c982987409/tumblr_inline_p9g2faLLln1scd1w1_500.jpg"/>
+
+<img src="https://78.media.tumblr.com/1dd814365a49e1b05f538399d9e09a0d/tumblr_inline_p7kdmhYiAG1scd1w1_500.jpg"/>
+
+
+<img src="https://66.media.tumblr.com/efd73cb2a51fd6bdf5bcbfddc6a3be16/tumblr_inline_plxc4iig3t1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/d032d4b3632f8e8b41a4e6a323dd343b/tumblr_inline_q0h14h5XDe1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/593ff83ee1cbba423f3b441b03d0be83/tumblr_inline_pscnneRkJi1scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/c2afec01efa2e69e7fe0d40526746735/tumblr_inline_pscnmczbc81scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/f8a4d2b3504bab41d556b3d944110e58/tumblr_inline_q0gxtvgOw41scd1w1_500.jpg"/>
+
+<img src="https://66.media.tumblr.com/1a9e931a0c15184b5668d25ca41b7679/tumblr_inline_q0gxt6PedZ1scd1w1_500.jpg"/>
+
+</div>
+
+<center>
+
+  
+
+<!--End mc_embed_signup-->
+ <!--tabs
+<br>
+<font size="1"> mix: Noah Manheimer, feat. Lily Sage, prod. Blank Body, D.R.O, Kenny Bureaux, Juniorr, Kae Uh, Dahm </font>
+
+<p>
+"Contrast" (2013) - performance, composition
+<br> 
+<font size="1"> mix: Noah Manheimer, art: Lily Sage </font>
+
+ 
+_____________________
+</br>
+WEBSITE BY MARI GETI
+-->
+
+
